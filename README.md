@@ -1,2 +1,2 @@
-# DNC-CCXP-22
-DNC-CCXP-22 do ensino DNC
+# DNC-CCXP-22 Count-Down
+ - Nesse projeto fiz meu primeiro Count-Down, usando js
